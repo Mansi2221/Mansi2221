@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mansi2221
-- 👀 I’m interested in data science.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning python.
 - 📫 U can reach me here- mansipatil2221@gmail.com
 
