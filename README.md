@@ -1,125 +1,62 @@
 ![Mansi Patil - Forward Deployed Engineer](assets/profile-banner.png)
 
-<div align="center">
+---
 
-### I work on **machine learning systems that need to hold up in real life**
+## What I Do
 
-**Full-stack AI engineering** | Building GenAI products from research to production | Obsessed with reliability
+I build GenAI systems that actually work in production. Been shipping full-stack AI applications for a while now—from prompt engineering and RAG pipelines to deployment and keeping things running reliably at scale.
 
-</div>
+Started getting serious about GenAI when it became clear this wasn't just hype. The transition from "cool demos" to "systems people trust with real work" is what keeps me engaged. That's where most of the interesting problems are.
 
 ---
 
-## 🎯 What I Work On
+## What I Work On
 
-| **AI & LLM Systems** | **System Architecture** | **Production & DevOps** |
-|---|---|---|
-| Multi-model orchestration (Claude, OpenAI, HF) | End-to-end system design (frontend → backend) | CI/CD automation & deployment |
-| Production RAG pipelines with vector DBs | High-performance API design | Reliability & monitoring |
-| Semantic search & embeddings | Database optimization | Zero-downtime deployments |
-| Prompt optimization & cost efficiency | Real-time data pipelines | Infrastructure as code |
+**LLM Integration & RAG**  
+Building retrieval-augmented generation systems, multi-model orchestration, semantic search. Handling the practical side—cost optimization, latency, making sure it actually works with real data at scale.
 
-**What pulls me in:** Building AI systems that actually scale. Not toy projects—production-grade systems that companies trust with critical workloads.
+**Full-Stack Architecture**  
+End-to-end system design. Frontend, API, backend infrastructure. I've learned that shipping is different from building—it's the reliability, monitoring, and being able to fix things at 3am that separates toys from products.
 
----
-
-## 💡 Areas of Focus
-
-### AI Integration & GenAI
-- Building RAG pipelines and retrieval systems that handle massive data at scale
-- LLM integration and prompt optimization for complex reasoning tasks
-- Semantic search with embeddings and vector databases
-- Multi-model orchestration and cost-efficient inference
-
-### Full-Stack Architecture
-- Full-stack AI system design (frontend + API + backend infrastructure)
-- API design and optimization for performance
-- Database design, caching strategies, and optimization
-- Real-time data pipelines and event streaming
-
-### Production & Reliability
-- CI/CD pipelines and automated deployments using GitHub Actions
-- Performance monitoring, observability, and logging
-- Container orchestration with Docker
-- Cost optimization and resource management at scale
+**Production & Deployment**  
+CI/CD automation, containerization, zero-downtime deployments. Spent enough time debugging issues in production to care deeply about making deployments smooth and observable. Infrastructure as code, proper logging, that kind of thing.
 
 ---
 
-## 🚀 Selected Work
+## Projects
 
-### **Travelmind** — AI Travel Intelligence Agent
-**Tech Stack:** Next.js · Groq · Tavily API · Vercel
+### Travelmind
+Real-time travel intelligence agent. Next.js + Groq + Tavily. Built this to handle parallel API calls efficiently and return structured travel briefings in under 10 seconds. It's the kind of thing that sounds simple until you start optimizing it.
 
-- Real-time web search with 5 parallel tool calls
-- Structured travel briefings in under 10 seconds  
-- Production-ready deployment on Vercel
-- [Explore on GitHub](https://github.com/Mansi2221/travelmind)
+[View on GitHub](https://github.com/Mansi2221/travelmind)
 
-### **Demand Sensing & Inventory Optimization**
-**Tech Stack:** Python · Machine Learning · Real-time Analytics
+### Demand Sensing & Inventory Optimization
+Forecasting system for demand prediction and inventory management. Went deep on the ML side here—building pipelines that could actually scale and handle real business requirements.
 
-- Advanced forecasting algorithms for demand prediction
-- Scalable backend architecture for real-time processing
-- End-to-end data pipeline from collection to inference
-- [View Repository](https://github.com/Mansi2221/demand-sensing-inventory-optimization)
+[View on GitHub](https://github.com/Mansi2221/demand-sensing-inventory-optimization)
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
-**Languages:**  
-`TypeScript` `Python` `JavaScript` `SQL`
+I work primarily with: **TypeScript**, **Python**, **Next.js**, **React**, **Node.js**, **PostgreSQL**, **Supabase**
 
-**Frontend & Mobile:**  
-`Next.js 14` `React` `Expo` `Tailwind CSS`
+On the AI side: **Claude API**, **OpenAI**, **LangChain**, **HuggingFace**, vector databases, the usual tools.
 
-**AI/ML & Data:**  
-`Claude API` `OpenAI` `LangChain` `HuggingFace` `Vector Databases` `RAG`
-
-**Backend & Infrastructure:**  
-`Node.js` `Supabase` `PostgreSQL` `Python` `Docker`
-
-**DevOps & Deployment:**  
-`GitHub Actions` `Vercel` `Docker` `Cloud Deployment` `CI/CD`
+DevOps/deployment: **Docker**, **GitHub Actions**, **Vercel**, cloud platforms.
 
 ---
 
-## ✨ Why Companies Hire Me
+## Let's Talk
 
-✅ **Full-Stack GenAI Expert** — Handle every layer from UX to infrastructure  
+If you're building something in GenAI space—whether it's early exploration or scaling to production—I'm interested in hearing about it.
 
-✅ **Production Focused** — Every project is reliable, scalable, and optimized for real users
+**Email:** mansi@example.com  
+**LinkedIn:** [Connect](https://linkedin.com)  
+**Schedule time:** [Cal](https://cal.com)
 
-✅ **Proven Track Record** — Shipped multiple production AI systems end-to-end  
-
-✅ **Customer Obsessed** — Build what people actually need, not just features
-
-✅ **Fast Execution** — Ship faster without sacrificing quality or reliability
-
-✅ **System Design Mastery** — Design systems that scale from prototype to millions of users
+Looking for contract work, full-time roles, or partnerships on interesting AI projects.
 
 ---
 
-## 📍 Get In Touch
-
-**Available for:** Contract work · Full-time roles · Technical partnerships · Consulting
-
-**Let's discuss:** GenAI products · Startup scaling · System architecture · Production challenges
-
-<div align="center">
-
-**💬 [Schedule a Quick Call](https://cal.com)**
-
-**📧 [Email](mailto:mansi@example.com)** · **💼 [LinkedIn](https://linkedin.com)** · **🔗 [GitHub](https://github.com/Mansi2221)**
-
-</div>
-
----
-
-<div align="center">
-
-### Building AI products that companies actually use
-
-**GenAI × Full-Stack Engineering × Production Systems**
-
-</div>
+**Building AI products. Every day.**
