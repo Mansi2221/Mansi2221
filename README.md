@@ -1,104 +1,125 @@
 ![Mansi Patil - Forward Deployed Engineer](assets/profile-banner.png)
 
+<div align="center">
+
+### I work on **machine learning systems that need to hold up in real life**
+
+**Full-stack AI engineering** | Building GenAI products from research to production | Obsessed with reliability
+
+</div>
+
 ---
 
-## 🎯 What I Do
+## 🎯 What I Work On
 
-I build **production-grade GenAI systems** that companies actually use. From LLM integration and RAG pipelines to full-stack deployment, I handle the entire journey from concept to reliable, scalable product.
+| **AI & LLM Systems** | **System Architecture** | **Production & DevOps** |
+|---|---|---|
+| Multi-model orchestration (Claude, OpenAI, HF) | End-to-end system design (frontend → backend) | CI/CD automation & deployment |
+| Production RAG pipelines with vector DBs | High-performance API design | Reliability & monitoring |
+| Semantic search & embeddings | Database optimization | Zero-downtime deployments |
+| Prompt optimization & cost efficiency | Real-time data pipelines | Infrastructure as code |
 
-**Focus:** Building AI products that generate real value | Full-stack GenAI systems | Production reliability
+**What pulls me in:** Building AI systems that actually scale. Not toy projects—production-grade systems that companies trust with critical workloads.
 
 ---
 
-## 💡 Core Expertise
+## 💡 Areas of Focus
 
-### **LLM & GenAI Integration**
-- Multi-model orchestration (Claude, OpenAI, HuggingFace)
-- Production-grade RAG pipelines with vector databases
-- Semantic search and prompt optimization
-- Cost-efficient inference at scale
+### AI Integration & GenAI
+- Building RAG pipelines and retrieval systems that handle massive data at scale
+- LLM integration and prompt optimization for complex reasoning tasks
+- Semantic search with embeddings and vector databases
+- Multi-model orchestration and cost-efficient inference
 
-### **Full-Stack Architecture**
-- End-to-end system design (frontend → API → backend)
-- High-performance database optimization
-- Scalable API design and patterns
+### Full-Stack Architecture
+- Full-stack AI system design (frontend + API + backend infrastructure)
+- API design and optimization for performance
+- Database design, caching strategies, and optimization
 - Real-time data pipelines and event streaming
 
-### **Production & Reliability**
-- CI/CD automation and GitHub Actions
-- Performance monitoring and observability
-- Infrastructure as code with Docker
-- Zero-downtime deployments and rollbacks
+### Production & Reliability
+- CI/CD pipelines and automated deployments using GitHub Actions
+- Performance monitoring, observability, and logging
+- Container orchestration with Docker
+- Cost optimization and resource management at scale
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
 ### **Travelmind** — AI Travel Intelligence Agent
-- Next.js + Groq + Tavily + Vercel
+**Tech Stack:** Next.js · Groq · Tavily API · Vercel
+
 - Real-time web search with 5 parallel tool calls
-- Structured travel briefings in under 10 seconds
-- [Explore](https://github.com/Mansi2221/travelmind)
+- Structured travel briefings in under 10 seconds  
+- Production-ready deployment on Vercel
+- [Explore on GitHub](https://github.com/Mansi2221/travelmind)
 
 ### **Demand Sensing & Inventory Optimization**
-- Advanced inventory forecasting system
-- Real-time demand prediction algorithms
-- Scalable backend architecture
-- [View](https://github.com/Mansi2221/demand-sensing-inventory-optimization)
+**Tech Stack:** Python · Machine Learning · Real-time Analytics
+
+- Advanced forecasting algorithms for demand prediction
+- Scalable backend architecture for real-time processing
+- End-to-end data pipeline from collection to inference
+- [View Repository](https://github.com/Mansi2221/demand-sensing-inventory-optimization)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** TypeScript · Python · JavaScript · SQL
+**Languages:**  
+`TypeScript` `Python` `JavaScript` `SQL`
 
-**Frontend:** Next.js 14 · React · Expo · Tailwind CSS
+**Frontend & Mobile:**  
+`Next.js 14` `React` `Expo` `Tailwind CSS`
 
-**AI/ML:** Claude API · OpenAI · LangChain · HuggingFace · Vector DBs
+**AI/ML & Data:**  
+`Claude API` `OpenAI` `LangChain` `HuggingFace` `Vector Databases` `RAG`
 
-**Backend:** Node.js · Supabase · PostgreSQL · Python
+**Backend & Infrastructure:**  
+`Node.js` `Supabase` `PostgreSQL` `Python` `Docker`
 
-**DevOps:** Docker · GitHub Actions · Vercel · Cloud Deployment
+**DevOps & Deployment:**  
+`GitHub Actions` `Vercel` `Docker` `Cloud Deployment` `CI/CD`
 
 ---
 
-## 📈 Why Companies Hire Me
+## ✨ Why Companies Hire Me
 
-✅ **Proven Track Record** — Shipped multiple production AI systems end-to-end
+✅ **Full-Stack GenAI Expert** — Handle every layer from UX to infrastructure  
 
-✅ **Full-Stack Mastery** — Handle every layer from UX to infrastructure  
+✅ **Production Focused** — Every project is reliable, scalable, and optimized for real users
 
-✅ **GenAI Expert** — Deep expertise in LLM integration and RAG systems
-
-✅ **Production Focused** — Every project is reliable, scalable, and optimized
+✅ **Proven Track Record** — Shipped multiple production AI systems end-to-end  
 
 ✅ **Customer Obsessed** — Build what people actually need, not just features
 
-✅ **Fast Execution** — Ship faster without sacrificing quality
+✅ **Fast Execution** — Ship faster without sacrificing quality or reliability
+
+✅ **System Design Mastery** — Design systems that scale from prototype to millions of users
 
 ---
 
-## 🌐 Let's Build Something Great
+## 📍 Get In Touch
 
-**Available for:** Contract work · Full-time roles · Technical partnerships
+**Available for:** Contract work · Full-time roles · Technical partnerships · Consulting
 
-**Specializations:** GenAI products · Startup scaling · Full-stack development
+**Let's discuss:** GenAI products · Startup scaling · System architecture · Production challenges
 
----
+<div align="center">
 
-### Connect with Me
+**💬 [Schedule a Quick Call](https://cal.com)**
 
-- 💬 **Discuss a project:** [Schedule a call](https://cal.com)
-- 📧 **Email:** mansi@example.com
-- 💼 **LinkedIn:** [Connect](https://linkedin.com)
-- 🔗 **Portfolio:** [View more](https://github.com/Mansi2221)
+**📧 [Email](mailto:mansi@example.com)** · **💼 [LinkedIn](https://linkedin.com)** · **🔗 [GitHub](https://github.com/Mansi2221)**
+
+</div>
 
 ---
 
 <div align="center">
 
-**Building AI products that companies use. Every day.**
+### Building AI products that companies actually use
 
-*GenAI × Full-Stack × Production*
+**GenAI × Full-Stack Engineering × Production Systems**
 
 </div>
