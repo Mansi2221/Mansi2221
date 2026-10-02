@@ -4,59 +4,89 @@
 
 ## What I Do
 
-I build GenAI systems that actually work in production. Been shipping full-stack AI applications for a while now—from prompt engineering and RAG pipelines to deployment and keeping things running reliably at scale.
-
-Started getting serious about GenAI when it became clear this wasn't just hype. The transition from "cool demos" to "systems people trust with real work" is what keeps me engaged. That's where most of the interesting problems are.
+I build production-grade GenAI systems. LLM integration, RAG pipelines, full-stack development—I handle the entire stack from concept to deployed product that actually works at scale.
 
 ---
 
-## What I Work On
+## Current Work
 
-**LLM Integration & RAG**  
-Building retrieval-augmented generation systems, multi-model orchestration, semantic search. Handling the practical side—cost optimization, latency, making sure it actually works with real data at scale.
+**Travelmind** — AI Travel Intelligence Agent  
+Real-time travel briefings powered by LLMs. Parallel API orchestration with structured output.
 
-**Full-Stack Architecture**  
-End-to-end system design. Frontend, API, backend infrastructure. I've learned that shipping is different from building—it's the reliability, monitoring, and being able to fix things at 3am that separates toys from products.
+```typescript
+// Real-time web search with structured results
+const travelAgent = async (destination: string) => {
+  const searches = await Promise.all([
+    tavily.search(`${destination} weather forecast`),
+    tavily.search(`${destination} local events`),
+    tavily.search(`${destination} transportation options`),
+    tavily.search(`${destination} accommodation deals`),
+    tavily.search(`${destination} cultural tips`),
+  ]);
+  
+  return await claude.generateBriefing(searches);
+};
+```
 
-**Production & Deployment**  
-CI/CD automation, containerization, zero-downtime deployments. Spent enough time debugging issues in production to care deeply about making deployments smooth and observable. Infrastructure as code, proper logging, that kind of thing.
+**Demand Sensing & Inventory Optimization**  
+Forecasting system that predicts demand patterns and optimizes inventory levels. Real-time analytics pipeline.
+
+```python
+# Demand forecasting with multiple time-series models
+def forecast_demand(historical_data, external_factors):
+    # ARIMA for trend analysis
+    arima_forecast = arima_model.predict(historical_data)
+    
+    # ML model for external factor influence
+    ml_forecast = gradient_boosting.predict(external_factors)
+    
+    # Ensemble approach for accuracy
+    return weighted_average([arima_forecast, ml_forecast])
+```
+
+[View Full Projects](https://github.com/Mansi2221?tab=repositories)
 
 ---
 
-## Projects
+## Technical Expertise
 
-### Travelmind
-Real-time travel intelligence agent. Next.js + Groq + Tavily. Built this to handle parallel API calls efficiently and return structured travel briefings in under 10 seconds. It's the kind of thing that sounds simple until you start optimizing it.
+**AI & LLMs**  
+Multi-model orchestration, RAG systems, semantic search, prompt optimization, cost-efficient inference
 
-[View on GitHub](https://github.com/Mansi2221/travelmind)
+**Backend & Infrastructure**  
+Node.js, Python, PostgreSQL, Supabase, Docker, GitHub Actions, production deployments
 
-### Demand Sensing & Inventory Optimization
-Forecasting system for demand prediction and inventory management. Went deep on the ML side here—building pipelines that could actually scale and handle real business requirements.
+**Frontend**  
+Next.js, React, Expo (mobile), TypeScript, real-time UI updates
 
-[View on GitHub](https://github.com/Mansi2221/demand-sensing-inventory-optimization)
+**What matters to me:** Building systems that don't fall apart at 3am. Proper logging. Monitoring. The unglamorous stuff that makes the difference between "it works" and "it works reliably."
 
 ---
 
 ## Stack
 
-I work primarily with: **TypeScript**, **Python**, **Next.js**, **React**, **Node.js**, **PostgreSQL**, **Supabase**
+**Languages:** TypeScript · Python · JavaScript · SQL
 
-On the AI side: **Claude API**, **OpenAI**, **LangChain**, **HuggingFace**, vector databases, the usual tools.
+**Frontend:** Next.js 14 · React · Expo · Tailwind
 
-DevOps/deployment: **Docker**, **GitHub Actions**, **Vercel**, cloud platforms.
+**AI/ML:** Claude API · OpenAI · LangChain · HuggingFace · Vector DBs
 
----
+**Backend:** Node.js · Supabase · PostgreSQL · Python
 
-## Let's Talk
-
-If you're building something in GenAI space—whether it's early exploration or scaling to production—I'm interested in hearing about it.
-
-**Email:** mansi@example.com  
-**LinkedIn:** [Connect](https://linkedin.com)  
-**Schedule time:** [Cal](https://cal.com)
-
-Looking for contract work, full-time roles, or partnerships on interesting AI projects.
+**DevOps:** Docker · GitHub Actions · Vercel
 
 ---
 
-**Building AI products. Every day.**
+## Available For
+
+Contract work on GenAI projects · Full-time roles building AI products · Technical partnerships
+
+Interested in: Production AI systems · Startup scaling · System architecture · Real-world AI challenges
+
+---
+
+**Let's build something that matters.**
+
+📧 mansi@example.com  
+💼 [LinkedIn](https://linkedin.com)  
+🔗 [My GitHub](https://github.com/Mansi2221)
