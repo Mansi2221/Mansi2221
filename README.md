@@ -87,6 +87,6 @@ Interested in: Production AI systems · Startup scaling · System architecture �
 
 **Let's build something that matters.**
 
-📧 mansi@example.com  
-💼 [LinkedIn](https://linkedin.com)  
-🔗 [My GitHub](https://github.com/Mansi2221)
+📧 [mansianilpatil2425@gmail.com](mailto:mansianilpatil2425@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mansi-patil-ab5638249/)  
+🔗 [GitHub](https://github.com/Mansi2221)
