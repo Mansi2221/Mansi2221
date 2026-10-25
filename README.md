@@ -122,7 +122,7 @@ def forecast_demand(historical_data, external_factors):
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mansi2221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mansi2221&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
@@ -131,11 +131,7 @@ def forecast_demand(historical_data, external_factors):
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=5B86E5&line=9D50BB&point=36D1DC" alt="activity graph" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mansi2221&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
 </p>
 
 ---
