@@ -130,6 +130,14 @@ def forecast_demand(historical_data, external_factors):
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi2221&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mansi2221/Mansi2221/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mansi2221/Mansi2221/output/github-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/Mansi2221/Mansi2221/output/github-snake.svg" width="95%" />
+  </picture>
+</p>
+
 ---
 
 ## What I'm Looking For
