@@ -1,9 +1,15 @@
-<!-- ============ HERO BANNER (your custom art) ============ -->
-![Mansi Patil - Forward Deployed Engineer](assets/profile-banner.png)
+<!-- ============ ANIMATED HERO ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,45:5B86E5,100:9D50BB&height=230&section=header&text=Mansi%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Forward%20Deployed%20Engineer%20%E2%80%A2%20Building%20AI%20systems%20that%20actually%20work%20in%20production&descSize=18&descAlignY=54" width="100%" alt="Mansi Patil — Forward Deployed Engineer" />
+</p>
 
 <!-- ============ ANIMATED TAGLINE ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=760&lines=Forward+Deployed+Engineer;I+ship+production+AI+systems+with+customers;Understand+the+problem+%E2%86%92+ship+fast+%E2%86%92+make+it+reliable;Full-stack%3A+API%2C+infra%2C+frontend%2C+the+glue+in+between" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5B86E5&center=true&vCenter=true&width=760&lines=GenAI+%7C+Full-Stack+%7C+Deployment;I+ship+production+AI+systems+with+customers;Understand+the+problem+%E2%86%92+ship+fast+%E2%86%92+make+it+reliable;Full-stack%3A+API%2C+infra%2C+frontend%2C+the+glue+in+between" alt="typing" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20Open%20to-Forward%20Deployed%20Engineer%20roles-5B86E5?style=for-the-badge" alt="open to roles" />
 </p>
 
 <p align="center">
@@ -125,7 +131,11 @@ def forecast_demand(historical_data, external_factors):
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=5B86E5&line=9D50BB&point=36D1DC" alt="activity graph" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mansi2221&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 ---
