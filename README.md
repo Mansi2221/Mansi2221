@@ -130,10 +130,6 @@ def forecast_demand(historical_data, external_factors):
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi2221&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
-</p>
-
 ---
 
 ## What I'm Looking For
