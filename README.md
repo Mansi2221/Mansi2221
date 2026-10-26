@@ -40,15 +40,21 @@ Working directly with your customers. Understanding their workflows. Making sure
 
 ---
 
-## 📌 Featured on GitHub
+## 📌 Pinned Projects
 
 The forward-deployed loop in three projects: **scope the problem → retrieve & reason over real data → ship a governed production system.**
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🏥 **[Eligible](https://github.com/Mansi2221/eligible)** | Patient-to-trial matching on harmonized clinical data — OMOP harmonization, agentic eligibility matching, PHI redaction, tamper-evident audit chain, FHIR output, and a human-in-the-loop review UI. Built end to end. | Python · LangGraph · dbt · FastAPI · Next.js |
-| 📋 **[Clarify](https://github.com/Mansi2221/clarify)** | AI Business Analyst agent — brief in, a full BA pack out (requirements, RTM, test cases, RACI register). It asks clarifying questions instead of inventing details. | Next.js 16 · React 19 · TS · Vercel AI SDK |
-| 🔎 **[Talent-RAG](https://github.com/Mansi2221/talent-rag)** | Production-grade RAG for talent intelligence — hybrid retrieval, cross-encoder reranking, ensemble generation with a judge, async job-based indexing, and an evaluation suite. | Python · FastAPI · FAISS · Streamlit · Docker |
+<p align="center">
+  <a href="https://github.com/Mansi2221/eligible"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansi2221&repo=eligible&theme=tokyonight&hide_border=true" alt="eligible" /></a>
+  <a href="https://github.com/Mansi2221/clarify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansi2221&repo=clarify&theme=tokyonight&hide_border=true" alt="clarify" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Mansi2221/talent-rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansi2221&repo=talent-rag&theme=tokyonight&hide_border=true" alt="talent-rag" /></a>
+</p>
+
+- 🏥 **[Eligible](https://github.com/Mansi2221/eligible)** — patient-to-trial matching on harmonized clinical data: OMOP harmonization, agentic eligibility matching, PHI redaction, tamper-evident audit chain, FHIR output, human-in-the-loop review UI. `Python · LangGraph · dbt · FastAPI · Next.js`
+- 📋 **[Clarify](https://github.com/Mansi2221/clarify)** — AI Business Analyst agent: brief in, a full BA pack out (requirements, RTM, test cases, RACI). Asks clarifying questions instead of inventing details. `Next.js 16 · React 19 · TS · Vercel AI SDK`
+- 🔎 **[Talent-RAG](https://github.com/Mansi2221/talent-rag)** — production-grade RAG for talent intelligence: hybrid retrieval, cross-encoder reranking, ensemble generation with a judge, async job-based indexing, evaluation suite. `Python · FastAPI · FAISS · Streamlit · Docker`
 
 ---
 
