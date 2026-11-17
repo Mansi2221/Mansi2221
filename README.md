@@ -18,11 +18,11 @@
 
 ---
 
-I build and deploy production AI systems directly with customers. Not demos, not POCs — real systems that handle real data in real environments.
+I build and deploy production AI systems directly with customers. Not demos, not POCs, real systems that handle real data in real environments.
 
-At IBM, I work on GenAI products from prototype to production. Before that, I built multi-agent systems, RAG pipelines, and full-stack AI applications — owning the entire stack from the data layer to the UI to the deployment infrastructure.
+At IBM, I work on GenAI products from prototype to production. Before that, I built multi-agent systems, RAG pipelines, and full-stack AI applications, owning the entire stack from the data layer to the UI to the deployment infrastructure.
 
-**What sets me apart:** I don't hand off. I scope the problem with the customer, build the full system, deploy it into their environment, and iterate until it works at 3am without anyone watching.
+**What sets me apart:** I don't hand off. I scope the problem with the customer, build the full system, deploy it into their environment, and iterate until it works at 3 am without anyone watching.
 
 ---
 
