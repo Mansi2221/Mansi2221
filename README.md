@@ -122,12 +122,12 @@ Specialization  Multi-agent systems, RAG pipelines, production AI deployment
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mansi2221&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&rank_icon=github&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2221&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mansi2221&show_icons=true&theme=github_dark&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&include_all_commits=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2221&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1a2233" width="95%" alt="activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=github-compact&hide_border=true&area=true" width="95%" alt="activity" />
 </p>
 
 ---
