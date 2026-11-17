@@ -26,6 +26,20 @@ At IBM, I work on GenAI products from prototype to production. Before that, I bu
 
 ---
 
+### Featured Project
+
+<a href="https://deploykit.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-deploykit.vercel.app-58A6FF?style=for-the-badge" alt="live demo" />
+</a>
+
+**[deploykit](https://github.com/Mansi2221/deploykit)** — Production Readiness Scanner for AI Applications
+
+Paste any GitHub repo URL, get an instant production readiness report. Auto-detects project type (API, agent, library, ML pipeline), runs contextual checks across security, LLM config, infrastructure, cost, and reliability. Scores higher than llama_index (40k+ stars) on its own scanner.
+
+`Python` `Next.js` `TypeScript` `Click` `Rich` `Pydantic` · **52 tests** · **CI/CD** · **pip-installable** · [Live at deploykit.vercel.app](https://deploykit.vercel.app)
+
+---
+
 ### What I've Built
 
 <table>
