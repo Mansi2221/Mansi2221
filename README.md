@@ -1,165 +1,113 @@
-<!-- ============ ANIMATED HERO ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,45:5B86E5,100:9D50BB&height=230&section=header&text=Mansi%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Forward%20Deployed%20Engineer%20%E2%80%A2%20Building%20AI%20systems%20that%20actually%20work%20in%20production&descSize=18&descAlignY=54" width="100%" alt="Mansi Patil — Forward Deployed Engineer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=&fontSize=0" width="100%" />
 
-<!-- ============ ANIMATED TAGLINE ============ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5B86E5&center=true&vCenter=true&width=760&lines=GenAI+%7C+Full-Stack+%7C+Deployment;I+ship+production+AI+systems+with+customers;Understand+the+problem+%E2%86%92+ship+fast+%E2%86%92+make+it+reliable;Full-stack%3A+API%2C+infra%2C+frontend%2C+the+glue+in+between" alt="typing" />
-</p>
+<h1 align="center">Mansi Patil</h1>
+<h3 align="center"><code>Forward Deployed Engineer</code></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Open%20to-Forward%20Deployed%20Engineer%20roles-5B86E5?style=for-the-badge" alt="open to roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=understand+the+problem+%E2%86%92+build+the+system+%E2%86%92+deploy+with+the+customer;GenAI+from+prototype+to+production;multi-agent+systems+%C2%B7+RAG+%C2%B7+full-stack+deployment;I+ship+to+prod+every+week%2C+not+every+quarter" alt="typing" />
 </p>
 
 <p align="center">
-  <a href="mailto:mansianilpatil2425@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mansipatil22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Mansi2221"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Mansi2221&label=Profile%20views&color=38BDAE&style=for-the-badge" />
+  <a href="mailto:mansianilpatil2425@gmail.com"><img src="https://img.shields.io/badge/email-mansianilpatil2425-2C5364?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mansipatil22"><img src="https://img.shields.io/badge/linkedin-mansipatil22-2C5364?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Mansi2221"><img src="https://img.shields.io/badge/github-Mansi2221-2C5364?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Mansi2221&color=2C5364&style=flat-square&label=visitors" />
 </p>
 
 ---
 
-## Forward Deployed Engineer
+### `> whoami`
 
-I work directly on the front lines—shipping production AI systems with customers, understanding their problems deeply, and building solutions that actually work in their environment.
+Forward Deployed Engineer. GenAI @ IBM. Purdue MS '26.
 
----
+I sit between the customer and the codebase. I understand what they actually need, build the full system (API, infra, frontend, the glue in between), and deploy it into their environment. Not a demo. Not a proof of concept. Production.
 
-## How I Work
-
-**Understand First**
-I spend time understanding the real problem—not just the technical requirements. What's actually blocking your customer? What does success look like? This shapes everything.
-
-**Ship Fast**
-Full-stack capability means I can move quickly. API design, infrastructure, frontend—I own the whole stack so nothing becomes a blocker. From problem to deployed solution in weeks, not months.
-
-**Customer Focused**
-Working directly with your customers. Understanding their workflows. Making sure the system works *for them*, not just in theory. That's where the real problems surface.
-
----
-
-## 📌 Pinned Projects
-
-The forward-deployed loop in three projects: **scope the problem → retrieve & reason over real data → ship a governed production system.**
-
-<p align="center">
-  <a href="https://github.com/Mansi2221/eligible"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansi2221&repo=eligible&theme=tokyonight&hide_border=true" alt="eligible" /></a>
-  <a href="https://github.com/Mansi2221/clarify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansi2221&repo=clarify&theme=tokyonight&hide_border=true" alt="clarify" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Mansi2221/talent-rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansi2221&repo=talent-rag&theme=tokyonight&hide_border=true" alt="talent-rag" /></a>
-</p>
-
-- 🏥 **[Eligible](https://github.com/Mansi2221/eligible)** — patient-to-trial matching on harmonized clinical data: OMOP harmonization, agentic eligibility matching, PHI redaction, tamper-evident audit chain, FHIR output, human-in-the-loop review UI. `Python · LangGraph · dbt · FastAPI · Next.js`
-- 📋 **[Clarify](https://github.com/Mansi2221/clarify)** — AI Business Analyst agent: brief in, a full BA pack out (requirements, RTM, test cases, RACI). Asks clarifying questions instead of inventing details. `Next.js 16 · React 19 · TS · Vercel AI SDK`
-- 🔎 **[Talent-RAG](https://github.com/Mansi2221/talent-rag)** — production-grade RAG for talent intelligence: hybrid retrieval, cross-encoder reranking, ensemble generation with a judge, async job-based indexing, evaluation suite. `Python · FastAPI · FAISS · Streamlit · Docker`
-
----
-
-## What Else I've Built
-
-**Travelmind** — Real-time AI Travel Agent
-Deployed with travel teams to generate structured briefings in seconds. Multi-model orchestration with parallel API calls, built to handle real-world latency requirements.
-
-```typescript
-// Customer-facing reliability: parallel search → structured output in <10s
-const travelAgent = async (destination: string) => {
-  const searches = await Promise.all([
-    tavily.search(`${destination} weather forecast`),
-    tavily.search(`${destination} local events`),
-    tavily.search(`${destination} transportation options`),
-    tavily.search(`${destination} accommodation deals`),
-    tavily.search(`${destination} cultural tips`),
-  ]);
-
-  return await claude.generateBriefing(searches);
-};
 ```
-
-**Demand Sensing & Inventory Optimization**
-Built for real supply chain operations. Forecasting engine that improves with actual business data. Works with messy real-world data, not clean datasets. Deployed to handle production demand patterns.
-
-```python
-# Production forecasting with ensemble methods
-def forecast_demand(historical_data, external_factors):
-    # ARIMA for trend + seasonality
-    arima_forecast = arima_model.predict(historical_data)
-
-    # Gradient boosting for feature interactions
-    ml_forecast = gradient_boosting.predict(external_factors)
-
-    # Ensemble: better than any single model
-    return weighted_average([arima_forecast, ml_forecast])
+customer problem --> scoping --> prototype --> deploy --> iterate on-site --> production system
 ```
 
 ---
 
-## I Can Help With
+### `> cat deployment_philosophy.md`
 
-**GenAI Product Development** — Taking AI from research to production. LLM integration, RAG pipelines, multi-model orchestration. Building the infrastructure that makes AI reliable and scalable.
+```markdown
+# How I deploy AI systems
 
-**Customer Deployment & Integration** — Understanding how your AI system fits into customer workflows. Handling integration challenges. Making sure it works at their scale and in their environment.
-
-**Full-Stack Architecture** — From understanding requirements to deploying infrastructure. Frontend, API design, database optimization, monitoring—I own the end-to-end experience.
-
-**Production Reliability** — Systems that work at 3am. Proper logging, monitoring, alert handling. Building for operational reality, not just technical correctness.
-
----
-
-## 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+1. UNDERSTAND FIRST    - What's actually blocking the customer? Not the spec. The real problem.
+2. OWN THE FULL STACK  - API, infra, frontend, data pipeline. No handoffs. No blockers.
+3. SHIP WEEKLY         - Working software in the customer's hands every week.
+4. BUILD FOR 3AM       - Logging, monitoring, alerts. It has to work when nobody's watching.
+```
 
 ---
 
-## Open Source Contributions
-
-<table>
-<tr><td><b>Repo</b></td><td><b>What</b></td><td><b>PR</b></td></tr>
-<tr><td><code>run-llama/llama_index</code></td><td>Added local OpenAILike server docs</td><td><a href="https://github.com/run-llama/llama_index/pull/24110">#24110</a></td></tr>
-<tr><td><code>anthropics/anthropic-cookbook</code></td><td>Refreshed supported models in memory cookbook</td><td><a href="https://github.com/anthropics/anthropic-cookbook/pull/966">#966</a></td></tr>
-<tr><td><code>anthropics/anthropic-cookbook</code></td><td>Fixed string content handling in session browser</td><td><a href="https://github.com/anthropics/anthropic-cookbook/pull/972">#972</a></td></tr>
-<tr><td><code>anthropics/anthropic-cookbook</code></td><td>Fixed stray character in evals grader prompt</td><td><a href="https://github.com/anthropics/anthropic-cookbook/pull/973">#973</a></td></tr>
-</table>
-
----
-
-## GitHub Activity
+### `> ls projects/`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mansi2221&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <a href="https://github.com/Mansi2221/eligible"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansi2221&repo=eligible&theme=github_dark&hide_border=true&bg_color=0d1117" alt="eligible" /></a>
+  <a href="https://github.com/Mansi2221/clarify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansi2221&repo=clarify&theme=github_dark&hide_border=true&bg_color=0d1117" alt="clarify" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Mansi2221/talent-rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansi2221&repo=talent-rag&theme=github_dark&hide_border=true&bg_color=0d1117" alt="talent-rag" /></a>
+  <a href="https://github.com/Mansi2221/travelmind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansi2221&repo=travelmind&theme=github_dark&hide_border=true&bg_color=0d1117" alt="travelmind" /></a>
+</p>
+
+| Project | What it does | Deployed with | Stack |
+|---------|-------------|---------------|-------|
+| **[eligible](https://github.com/Mansi2221/eligible)** | Patient-to-trial matching on harmonized clinical data | Healthcare teams | `Python` `LangGraph` `dbt` `FastAPI` `Next.js` |
+| **[clarify](https://github.com/Mansi2221/clarify)** | AI BA agent: brief in, requirements + RTM + test cases out | Product teams | `Next.js 16` `React 19` `Vercel AI SDK` |
+| **[talent-rag](https://github.com/Mansi2221/talent-rag)** | Production RAG for talent intelligence with eval suite | Recruiting ops | `FastAPI` `FAISS` `Streamlit` `Docker` |
+| **[travelmind](https://github.com/Mansi2221/travelmind)** | Real-time travel briefings via parallel tool calls in <10s | Travel teams | `Next.js` `Groq` `Tavily` `Vercel` |
+
+---
+
+### `> git log --oneline open-source/`
+
+Contributing to the AI infra I deploy with:
+
+| Repo | Contribution | PR |
+|------|-------------|-----|
+| `run-llama/llama_index` | Added local OpenAILike server docs with capability overrides | [#24110](https://github.com/run-llama/llama_index/pull/24110) |
+| `anthropics/anthropic-cookbook` | Refreshed supported models in memory cookbook | [#966](https://github.com/anthropics/anthropic-cookbook/pull/966) |
+| `anthropics/anthropic-cookbook` | Fixed string content handling in session browser | [#972](https://github.com/anthropics/anthropic-cookbook/pull/972) |
+| `anthropics/anthropic-cookbook` | Fixed stray character in evals grader prompt | [#973](https://github.com/anthropics/anthropic-cookbook/pull/973) |
+
+---
+
+### `> cat tech_stack.yml`
+
+```yaml
+languages:    [Python, TypeScript, SQL]
+ai_ml:        [LangChain, LangGraph, Vercel AI SDK, FAISS, HuggingFace]
+backend:      [FastAPI, Node.js, Supabase, PostgreSQL]
+frontend:     [Next.js, React, Tailwind CSS]
+infra:        [Docker, Vercel, AWS, GitHub Actions]
+what_i_ship:  multi-agent systems, RAG pipelines, full-stack AI products
+where_i_ship: directly into the customer's environment
+```
+
+---
+
+### `> metrics`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mansi2221&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=38BDAE&title_color=38BDAE&text_color=c9d1d9&rank_icon=github&include_all_commits=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2221&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDAE&text_color=c9d1d9&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=github-compact&hide_border=true&bg_color=0d1117&color=38BDAE&line=38BDAE&point=ffffff&area=true&area_color=2C5364" width="95%" alt="activity" />
 </p>
 
 ---
 
-## What I'm Looking For
+<p align="center">
+  <b>Looking for FDE roles where I deploy AI systems directly with customers.</b><br/>
+  <sub>The kind of work where you ship to production every week and talk to customers about how it's actually working.</sub>
+</p>
 
-Forward deployed roles where I can work directly with customers. Building real solutions to real problems. The kind of work where you ship to production every week and talk to customers about how it's actually working.
+<p align="center">
+  <a href="mailto:mansianilpatil2425@gmail.com"><img src="https://img.shields.io/badge/Let's_ship_something-mansianilpatil2425@gmail.com-38BDAE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-Strong interest in: **AI product deployment · Startup customer integration · Building customer-facing systems · Real-time problem solving on site**
-
----
-
-**Let's ship something with your customers.**
-
-📧 [mansianilpatil2425@gmail.com](mailto:mansianilpatil2425@gmail.com)  &nbsp;·&nbsp;  💼 [LinkedIn](https://www.linkedin.com/in/mansipatil22)  &nbsp;·&nbsp;  🔗 [GitHub](https://github.com/Mansi2221)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
