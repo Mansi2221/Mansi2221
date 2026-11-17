@@ -3,7 +3,7 @@
 <h1 align="center">Mansi Patil</h1>
 
 <p align="center">
-  <strong>Forward Deployed Engineer</strong>&nbsp;&nbsp;|&nbsp;&nbsp;GenAI @ IBM&nbsp;&nbsp;|&nbsp;&nbsp;MS Computer Science, Purdue '26
+  <strong>Forward Deployed Engineer</strong>&nbsp;&nbsp;|&nbsp;&nbsp;GenAI @ IBM&nbsp;&nbsp;|&nbsp;&nbsp;MS Business Analytics, Purdue '26
 </p>
 
 <p align="center">
