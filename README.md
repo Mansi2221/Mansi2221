@@ -81,11 +81,11 @@ Permission-aware enterprise AI agent with ablation study. Role-based access cont
 </td>
 <td width="50%" valign="top">
 
-**[demand-sensing](https://github.com/Mansi2221/demand-sensing-inventory-optimization)** — Supply Chain Forecasting
+**[deploykit](https://github.com/Mansi2221/deploykit)** — Production Readiness Scanner for AI Apps
 
-Demand sensing and inventory optimization for real supply chain operations. Ensemble forecasting (ARIMA + gradient boosting) that improves with actual business data, not clean academic datasets.
+CLI tool that scans AI applications and generates a deploy/no-deploy verdict. Checks security, LLM config, API health, infra, cost estimation, and reliability. 52 tests, pip-installable.
 
-`TypeScript` `Next.js`
+`Python` `Click` `Rich` `Pydantic`
 
 </td>
 </tr>
