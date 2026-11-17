@@ -126,13 +126,9 @@ Specialization  Multi-agent systems, RAG pipelines, production AI deployment
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mansi2221&theme=github_dark" width="95%" alt="profile details" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mansi2221&theme=github_dark" height="160" alt="repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mansi2221&theme=github_dark" height="160" alt="most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mansi2221&theme=github_dark" height="160" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mansi2221&theme=github_dark&utcOffset=-5" height="160" alt="productive time" />
 </p>
 
 ---
