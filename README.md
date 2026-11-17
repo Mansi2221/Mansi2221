@@ -122,12 +122,17 @@ Specialization  Multi-agent systems, RAG pipelines, production AI deployment
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mansi2221&show_icons=true&theme=github_dark&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2221&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="top langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=github-compact&hide_border=true&area=true" width="95%" alt="activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=github-compact&hide_border=true&area=true" width="95%" alt="activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mansi2221&theme=github_dark" width="95%" alt="profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mansi2221&theme=github_dark" height="160" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mansi2221&theme=github_dark" height="160" alt="most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mansi2221&theme=github_dark" height="160" alt="stats" />
 </p>
 
 ---
