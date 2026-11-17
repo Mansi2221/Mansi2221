@@ -13,7 +13,7 @@
 <p align="center">
   <a href="mailto:mansianilpatil2425@gmail.com"><img src="https://img.shields.io/badge/mansianilpatil2425@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/mansipatil22"><img src="https://img.shields.io/badge/mansipatil22-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Mansi2221&color=333&style=flat-square&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=Mansi2221&color=555555&style=flat-square&label=profile+views" />
 </p>
 
 ---
