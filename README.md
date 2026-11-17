@@ -125,23 +125,27 @@ def forecast_demand(historical_data, external_factors):
 
 ---
 
-## 📊 GitHub Activity
+## Open Source Contributions
+
+<table>
+<tr><td><b>Repo</b></td><td><b>What</b></td><td><b>PR</b></td></tr>
+<tr><td><code>run-llama/llama_index</code></td><td>Added local OpenAILike server docs</td><td><a href="https://github.com/run-llama/llama_index/pull/24110">#24110</a></td></tr>
+<tr><td><code>anthropics/anthropic-cookbook</code></td><td>Refreshed supported models in memory cookbook</td><td><a href="https://github.com/anthropics/anthropic-cookbook/pull/966">#966</a></td></tr>
+<tr><td><code>anthropics/anthropic-cookbook</code></td><td>Fixed string content handling in session browser</td><td><a href="https://github.com/anthropics/anthropic-cookbook/pull/972">#972</a></td></tr>
+<tr><td><code>anthropics/anthropic-cookbook</code></td><td>Fixed stray character in evals grader prompt</td><td><a href="https://github.com/anthropics/anthropic-cookbook/pull/973">#973</a></td></tr>
+</table>
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mansi2221&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mansi2221&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi2221&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mansi2221/Mansi2221/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mansi2221/Mansi2221/output/github-snake.svg" />
-    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/Mansi2221/Mansi2221/output/github-snake.svg" width="95%" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph" />
 </p>
 
 ---
