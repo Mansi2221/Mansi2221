@@ -26,17 +26,26 @@ At IBM, I work on GenAI products from prototype to production. Before that, I bu
 
 ---
 
-### Featured Project
+### Featured Projects
 
 <a href="https://deploykit.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-deploykit.vercel.app-58A6FF?style=for-the-badge" alt="live demo" />
+  <img src="https://img.shields.io/badge/Live-deploykit.vercel.app-58A6FF?style=for-the-badge" alt="deploykit demo" />
+</a>&nbsp;
+<a href="https://gitpulse-ruddy.vercel.app">
+  <img src="https://img.shields.io/badge/Live-gitpulse.vercel.app-39d353?style=for-the-badge" alt="gitpulse demo" />
 </a>
 
 **[deploykit](https://github.com/Mansi2221/deploykit)** — Production Readiness Scanner for AI Applications
 
-Paste any GitHub repo URL, get an instant production readiness report. Auto-detects project type (API, agent, library, ML pipeline), runs contextual checks across security, LLM config, infrastructure, cost, and reliability. Scores higher than llama_index (40k+ stars) on its own scanner.
+Paste any GitHub repo URL, get an instant production readiness report. Auto-detects project type (API, agent, library, ML pipeline), runs contextual checks across security, LLM config, infrastructure, cost, and reliability.
 
-`Python` `Next.js` `TypeScript` `Click` `Rich` `Pydantic` · **52 tests** · **CI/CD** · **pip-installable** · [Live at deploykit.vercel.app](https://deploykit.vercel.app)
+`Python` `Next.js` `TypeScript` `Click` `Rich` `Pydantic` · **52 tests** · **CI/CD** · **pip-installable**
+
+**[gitpulse](https://github.com/Mansi2221/gitpulse)** — Developer Intelligence Dashboard
+
+Paste any GitHub username, get instant analytics — contribution heatmap, language distribution, coding patterns, repo quality. Compare two developers side-by-side with category breakdown, insights, and improvement recommendations.
+
+`Next.js` `TypeScript` `Recharts` `GitHub API`
 
 ---
 
@@ -113,7 +122,9 @@ I contribute to the AI infrastructure I actually deploy with.
 
 | Repo | Contribution | Link |
 |------|-------------|------|
+| **microsoft/agent-governance-toolkit** | Fixed PII false positives in MCP Security Gateway — Luhn validation, phone/IPv4 pattern tightening, 27 tests | [PR #4608](https://github.com/microsoft/agent-governance-toolkit/pull/4608) |
 | **run-llama/llama_index** | Added local OpenAILike server documentation — setup, streaming, model discovery, configs for vLLM/LM Studio/Rapid-MLX | [PR #24110](https://github.com/run-llama/llama_index/pull/24110) |
+| **run-llama/llama_index** | Fixed 9 incorrect Colab badge links across LLM example notebooks | [PR #24301](https://github.com/run-llama/llama_index/pull/24301) |
 | **anthropics/anthropic-cookbook** | Fixed bug: session browser rendered blank lines for user prompts (string vs block-array content handling) | [PR #972](https://github.com/anthropics/anthropic-cookbook/pull/972) |
 | **anthropics/anthropic-cookbook** | Updated supported models list in memory tool cookbook to match official docs (Claude 4+ family) | [PR #966](https://github.com/anthropics/anthropic-cookbook/pull/966) |
 | **anthropics/anthropic-cookbook** | Fixed stray character in evals grader prompt that was sent into model context | [PR #973](https://github.com/anthropics/anthropic-cookbook/pull/973) |
