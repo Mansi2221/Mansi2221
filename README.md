@@ -37,6 +37,12 @@ At IBM, I work on GenAI products from prototype to production. Before that, I bu
   </a>&nbsp;
   <a href="https://gitpulse-ruddy.vercel.app">
     <img src="https://img.shields.io/badge/GitPulse-Live_Demo-A371F7?style=for-the-badge" alt="gitpulse demo" />
+  </a>&nbsp;
+  <a href="https://clarify-alpha.vercel.app">
+    <img src="https://img.shields.io/badge/Clarify-Live_Demo-F97316?style=for-the-badge" alt="clarify demo" />
+  </a>&nbsp;
+  <a href="https://travelmind-ten.vercel.app">
+    <img src="https://img.shields.io/badge/TravelMind-Live_Demo-10B981?style=for-the-badge" alt="travelmind demo" />
   </a>
 </p>
 
@@ -97,7 +103,7 @@ Paste any GitHub username, get instant analytics — contribution heatmap, langu
 </td>
 <td width="50%" valign="top">
 
-**[clarify](https://github.com/Mansi2221/clarify)** — AI Business Analyst Agent
+**[clarify](https://github.com/Mansi2221/clarify)** — AI Business Analyst Agent &nbsp; [![Live](https://img.shields.io/badge/live-F97316?style=flat-square)](https://clarify-alpha.vercel.app)
 
 Brief in, full BA deliverable pack out: requirements doc, RTM, test cases, RACI register. Asks clarifying questions before generating — no hallucinated requirements.
 
@@ -108,7 +114,7 @@ Brief in, full BA deliverable pack out: requirements doc, RTM, test cases, RACI 
 <tr>
 <td width="50%" valign="top">
 
-**[travelmind](https://github.com/Mansi2221/travelmind)** — Real-time AI Travel Agent
+**[travelmind](https://github.com/Mansi2221/travelmind)** — Real-time AI Travel Agent &nbsp; [![Live](https://img.shields.io/badge/live-10B981?style=flat-square)](https://travelmind-ten.vercel.app)
 
 5 parallel tool calls, real-time web search, structured travel briefings in under 10 seconds. Deployed on Vercel with streaming responses.
 
