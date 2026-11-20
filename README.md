@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;10+open+source+PRs+to+Anthropic%2C+LlamaIndex+%26+Microsoft" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;11+open+source+PRs+to+Anthropic%2C+LlamaIndex+%26+Microsoft;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
 </p>
 
 <p align="center">
@@ -23,6 +23,17 @@ I build and deploy production AI systems directly with customers. Not demos, not
 At IBM, I work on GenAI products from prototype to production. Before that, I built multi-agent systems, RAG pipelines, guardrail engines, and full-stack AI applications — owning the entire stack from the data layer to the UI to the deployment infrastructure.
 
 **What sets me apart:** I don't hand off. I scope the problem with the customer, build the full system, deploy it into their environment, and iterate until it works at 3 AM without anyone watching.
+
+---
+
+### Try My AI Portfolio
+
+<p align="center">
+  <a href="https://ask-mansi.vercel.app">
+    <img src="https://img.shields.io/badge/Ask_Mansi-Chat_with_my_portfolio-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIxIDE1YTIgMiAwIDAgMS0yIDJINWwtNCA0VjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAyeiI+PC9wYXRoPjwvc3ZnPg==" alt="ask mansi" />
+  </a>
+</p>
+<p align="center"><sub>Ask anything about my work — AI-powered answers grounded in real projects, real code, real contributions.</sub></p>
 
 ---
 
