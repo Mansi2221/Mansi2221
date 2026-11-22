@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;11+open+source+PRs+to+Anthropic%2C+LlamaIndex+%26+Microsoft;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;14%2B+open+source+PRs+across+6+major+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
 </p>
 
 <p align="center">
@@ -162,6 +162,9 @@ I contribute to the AI infrastructure I actually deploy with.
 | **microsoft/agent-governance-toolkit** | Fixed PII false positives in MCP Security Gateway — Luhn, phone, IPv4 patterns, 27 tests | [#4608](https://github.com/microsoft/agent-governance-toolkit/pull/4608) |
 | **run-llama/llama_index** | Added local OpenAILike server documentation — vLLM, LM Studio, Rapid-MLX | [#24110](https://github.com/run-llama/llama_index/pull/24110) |
 | **run-llama/llama_index** | Fixed 9 incorrect Colab badge links across LLM example notebooks | [#24301](https://github.com/run-llama/llama_index/pull/24301) |
+| **run-llama/llama_index** | Fixed triplet parser to extract all triplets from lines with nested parentheses | [#24361](https://github.com/run-llama/llama_index/pull/24361) |
+| **crewAIInc/crewAI** | Fixed token usage metrics double-counting when agents share an LLM instance | [#9644](https://github.com/crewAIInc/crewAI/pull/9644) |
+| **AI4Finance/FinRL** | Fixed UTC-aware timestamps in CCXT processor to prevent timezone errors | [#1488](https://github.com/AI4Finance-Foundation/FinRL/pull/1488) |
 
 ---
 
@@ -178,7 +181,12 @@ Specialization  Multi-agent systems · RAG · Guardrails · LLM Evaluation · Pr
 
 ---
 
-### GitHub Activity
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi2221&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mansi2221&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&title_color=58A6FF&include_all_commits=true&count_private=true" width="48%" alt="stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi2221&theme=github-compact&hide_border=true&area=true" width="95%" alt="activity" />
