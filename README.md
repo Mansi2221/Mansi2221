@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;21%2B+PRs+%2B+7+Discussion+answers+across+7+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;25%2B+PRs+%2B+7+Discussion+answers+across+8+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
 </p>
 
 <p align="center">
@@ -172,6 +172,11 @@ I contribute to the AI infrastructure I actually deploy with.
 | **stanfordnlp/dspy** | Fixed empty signature instructions replaced with default — preserve intentional empty strings | [#10937](https://github.com/stanfordnlp/dspy/pull/10937) |
 | **crewAIInc/crewAI** | Added runnable offline custom LLM quick-start example to docs | [#9651](https://github.com/crewAIInc/crewAI/pull/9651) |
 | **crewAIInc/crewAI** | Fixed save_artifact to enforce image format check for file_path | [#9652](https://github.com/crewAIInc/crewAI/pull/9652) |
+| **stanfordnlp/dspy** | Fixed ReAct packing tool erasing original item list from history — deepcopy tool args | [#10938](https://github.com/stanfordnlp/dspy/pull/10938) |
+| **stanfordnlp/dspy** | Fixed semantic judge metrics turning NaN components into perfect scores | [#10939](https://github.com/stanfordnlp/dspy/pull/10939) |
+| **stanfordnlp/dspy** | Fixed JSONAdapter alphabetising Pydantic property names — preserve declaration order | [#10940](https://github.com/stanfordnlp/dspy/pull/10940) |
+| **run-llama/llama_index** | Fixed AutoMergingRetriever missing one-chunk context gap on reverse-ranked hits | [#24382](https://github.com/run-llama/llama_index/pull/24382) |
+| **run-llama/llama_index** | Fixed OpenAIResponses stream_chat reporting response.failed as empty success | [#24384](https://github.com/run-llama/llama_index/pull/24384) |
 | **AI4Finance/FinRL** | Fixed UTC-aware timestamps in CCXT processor to prevent timezone errors | [#1488](https://github.com/AI4Finance-Foundation/FinRL/pull/1488) |
 
 #### Community Answers (GitHub Discussions)
