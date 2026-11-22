@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;14%2B+open+source+PRs+across+6+major+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;15%2B+open+source+PRs+across+6+major+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
 </p>
 
 <p align="center">
@@ -164,6 +164,8 @@ I contribute to the AI infrastructure I actually deploy with.
 | **run-llama/llama_index** | Fixed 9 incorrect Colab badge links across LLM example notebooks | [#24301](https://github.com/run-llama/llama_index/pull/24301) |
 | **run-llama/llama_index** | Fixed triplet parser to extract all triplets from lines with nested parentheses | [#24361](https://github.com/run-llama/llama_index/pull/24361) |
 | **crewAIInc/crewAI** | Fixed token usage metrics double-counting when agents share an LLM instance | [#9644](https://github.com/crewAIInc/crewAI/pull/9644) |
+| **crewAIInc/crewAI** | Fixed Agent.copy() sharing LLM mutable dicts — deepcopy additional_params and token_usage | [#9650](https://github.com/crewAIInc/crewAI/pull/9650) |
+| **run-llama/llama_index** | Fixed NLTK cache permissions — nltk 3.10.4 rejects group-writable dirs, breaking stopwords | [#24380](https://github.com/run-llama/llama_index/pull/24380) |
 | **AI4Finance/FinRL** | Fixed UTC-aware timestamps in CCXT processor to prevent timezone errors | [#1488](https://github.com/AI4Finance-Foundation/FinRL/pull/1488) |
 
 ---
