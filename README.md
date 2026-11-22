@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;20%2B+PRs+%2B+7+Discussion+answers+across+7+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;21%2B+PRs+%2B+7+Discussion+answers+across+7+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
 </p>
 
 <p align="center">
@@ -167,6 +167,7 @@ I contribute to the AI infrastructure I actually deploy with.
 | **crewAIInc/crewAI** | Fixed Agent.copy() sharing LLM mutable dicts — deepcopy additional_params and token_usage | [#9650](https://github.com/crewAIInc/crewAI/pull/9650) |
 | **run-llama/llama_index** | Fixed NLTK cache permissions — nltk 3.10.4 rejects group-writable dirs, breaking stopwords | [#24380](https://github.com/run-llama/llama_index/pull/24380) |
 | **run-llama/llama_index** | Fixed Memory flush wiping nearly all history when token_limit is small — clamp flush size to history budget | [#24381](https://github.com/run-llama/llama_index/pull/24381) |
+| **run-llama/llama_index** | Fixed FunctionTool dropping `Field(pattern=...)` from Annotated params in schema generation | [#24383](https://github.com/run-llama/llama_index/pull/24383) |
 | **stanfordnlp/dspy** | Fixed COPRO.compile crash when eval_kwargs contains Evaluate constructor-only params | [#10936](https://github.com/stanfordnlp/dspy/pull/10936) |
 | **stanfordnlp/dspy** | Fixed empty signature instructions replaced with default — preserve intentional empty strings | [#10937](https://github.com/stanfordnlp/dspy/pull/10937) |
 | **crewAIInc/crewAI** | Added runnable offline custom LLM quick-start example to docs | [#9651](https://github.com/crewAIInc/crewAI/pull/9651) |
