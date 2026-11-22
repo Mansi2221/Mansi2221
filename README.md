@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;15%2B+open+source+PRs+across+6+major+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;15%2B+PRs+%2B+7+Discussion+answers+across+6+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
 </p>
 
 <p align="center">
@@ -167,6 +167,18 @@ I contribute to the AI infrastructure I actually deploy with.
 | **crewAIInc/crewAI** | Fixed Agent.copy() sharing LLM mutable dicts — deepcopy additional_params and token_usage | [#9650](https://github.com/crewAIInc/crewAI/pull/9650) |
 | **run-llama/llama_index** | Fixed NLTK cache permissions — nltk 3.10.4 rejects group-writable dirs, breaking stopwords | [#24380](https://github.com/run-llama/llama_index/pull/24380) |
 | **AI4Finance/FinRL** | Fixed UTC-aware timestamps in CCXT processor to prevent timezone errors | [#1488](https://github.com/AI4Finance-Foundation/FinRL/pull/1488) |
+
+#### Community Answers (GitHub Discussions)
+
+| Repo | Topic | Link |
+|------|-------|------|
+| **run-llama/llama_index** | VertexAI Gemini structured output with LLMReranker | [#17576](https://github.com/run-llama/llama_index/discussions/17576) |
+| **run-llama/llama_index** | Rate limiting LLM pipelines (TitleExtractor, SummaryExtractor) | [#17697](https://github.com/run-llama/llama_index/discussions/17697) |
+| **run-llama/llama_index** | PGVector hybrid search — hybrid_top_k not implemented | [#19606](https://github.com/run-llama/llama_index/discussions/19606) |
+| **run-llama/llama_index** | Source nodes missing after FunctionAgent migration | [#20494](https://github.com/run-llama/llama_index/discussions/20494) |
+| **run-llama/llama_index** | MetadataFilter `NOT` condition semantics & backend support | [#19112](https://github.com/run-llama/llama_index/discussions/19112) |
+| **run-llama/llama_index** | OpenAILike for vLLM local inference setup | [#16899](https://github.com/run-llama/llama_index/discussions/16899) |
+| **run-llama/llama_index** | NLSQLTableQueryEngine debugging — empty results | [#14007](https://github.com/run-llama/llama_index/discussions/14007) |
 
 ---
 
