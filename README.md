@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;25%2B+PRs+%2B+7+Discussion+answers+across+8+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;25%2B+PRs+%2B+10+code+reviews+%2B+7+discussion+answers+across+10+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
 </p>
 
 <p align="center">
@@ -148,10 +148,13 @@ Permission-aware enterprise AI agent with ablation study. Role-based access cont
 
 ### Open Source Contributions
 
-I contribute to the AI infrastructure I actually deploy with.
+I contribute to the AI infrastructure I actually deploy with — and review others' contributions too.
 
 | Repo | Contribution | PR |
 |------|-------------|-----|
+| **pydantic/pydantic** | Fixed negative indices in include/exclude failing on Sequence fields | [#14380](https://github.com/pydantic/pydantic/pull/14380) |
+| **langchain-ai/langchain** | Fixed MCP tool arguments named `config`/`run_manager` being silently swallowed | [#42023](https://github.com/langchain-ai/langchain/pull/42023) |
+| **BerriAI/litellm** | Fixed max_parallel_requests admitting 2x cap after slot counter cache expires | [#53577](https://github.com/BerriAI/litellm/pull/53577) |
 | **anthropics/anthropic-cookbook** | Fixed scenario analysis state leak — saves/restores base values between scenarios | [#983](https://github.com/anthropics/anthropic-cookbook/pull/983) |
 | **anthropics/anthropic-cookbook** | Fixed stale cache bug — invalidate projections when DCF assumptions change | [#982](https://github.com/anthropics/anthropic-cookbook/pull/982) |
 | **anthropics/anthropic-cookbook** | Fixed ratio trend zero baseline — proper `inf` handling with sign | [#981](https://github.com/anthropics/anthropic-cookbook/pull/981) |
@@ -179,6 +182,22 @@ I contribute to the AI infrastructure I actually deploy with.
 | **run-llama/llama_index** | Fixed OpenAIResponses stream_chat reporting response.failed as empty success | [#24384](https://github.com/run-llama/llama_index/pull/24384) |
 | **AI4Finance/FinRL** | Fixed UTC-aware timestamps in CCXT processor to prevent timezone errors | [#1488](https://github.com/AI4Finance-Foundation/FinRL/pull/1488) |
 
+#### Code Reviews
+
+I actively review PRs across the repos I contribute to — 3 PR authors implemented changes based on my review feedback.
+
+| Repo | PR Reviewed | Feedback |
+|------|------------|----------|
+| **BerriAI/litellm** | [#53578](https://github.com/BerriAI/litellm/pull/53578) | Bedrock rerank config — nested dict traversal & defensive handling |
+| **langchain-ai/langchain** | [#42011](https://github.com/langchain-ai/langchain/pull/42011) | Auth token provider — exception path for failed refresh |
+| **run-llama/llama_index** | [#24391](https://github.com/run-llama/llama_index/pull/24391) | Embedding batch perf — flagged unrelated commit, Field default_factory |
+| **run-llama/llama_index** | [#24386](https://github.com/run-llama/llama_index/pull/24386) | Tool schema `required` field handling |
+| **crewAIInc/crewAI** | [#9656](https://github.com/crewAIInc/crewAI/pull/9656) | Foreign model schema validation |
+| **crewAIInc/crewAI** | [#9653](https://github.com/crewAIInc/crewAI/pull/9653) | Guardrail retry context preservation |
+| **stanfordnlp/dspy** | [#10943](https://github.com/stanfordnlp/dspy/pull/10943) | Variadic tuple Ellipsis rendering |
+| **stanfordnlp/dspy** | [#10942](https://github.com/stanfordnlp/dspy/pull/10942) | UTF-8 encoding for Evaluate results |
+| **pydantic/pydantic** | [#14374](https://github.com/pydantic/pydantic/pull/14374) | ImportString TypeError for relative paths |
+
 #### Community Answers (GitHub Discussions)
 
 | Repo | Topic | Link |
@@ -197,7 +216,7 @@ I contribute to the AI infrastructure I actually deploy with.
 
 ```
 Languages       Python · TypeScript · SQL
-AI/ML           Claude API · LangChain · LangGraph · Vercel AI SDK · FAISS · HuggingFace
+AI/ML           Claude API · LangChain · LangGraph · DSPy · CrewAI · LiteLLM · Vercel AI SDK · FAISS · HuggingFace
 Backend         FastAPI · Node.js · Supabase · PostgreSQL · Redis
 Frontend        Next.js (App Router) · React · Tailwind CSS · shadcn/ui
 Infrastructure  Docker · Vercel · AWS · GitHub Actions
