@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;25%2B+PRs+%2B+10+code+reviews+%2B+7+discussion+answers+across+10+repos;Try+my+AI+portfolio+%E2%80%94+ask--mansi.vercel.app" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+take+AI+from+prototype+to+production+with+customers;Multi-agent+systems+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+LLM+Evaluation;60%2B+PRs+across+LlamaIndex+%C2%B7+DSPy+%C2%B7+CrewAI+%C2%B7+LangChain+%C2%B7+Pydantic;4+GitHub+Actions+on+the+Marketplace+%E2%80%94+AI+%2B+DevOps+tooling" alt="typing" />
 </p>
 
 <p align="center">
@@ -56,6 +56,19 @@ At IBM, I work on GenAI products from prototype to production. Before that, I bu
     <img src="https://img.shields.io/badge/TravelMind-Live_Demo-10B981?style=for-the-badge" alt="travelmind demo" />
   </a>
 </p>
+
+---
+
+### GitHub Actions — Marketplace
+
+I build developer tools that teams actually use in their CI/CD pipelines.
+
+| Action | What it does | Install |
+|--------|-------------|---------|
+| **[ai-pr-summary](https://github.com/Mansi2221/ai-pr-summary)** | Auto-generates PR descriptions from diffs using Claude or GPT | `Mansi2221/ai-pr-summary@v1` |
+| **[deploy-guard](https://github.com/Mansi2221/deploy-guard)** | Blocks merges if deployment checks fail (env vars, Docker, secrets, CI) | `Mansi2221/deploy-guard@v1` |
+| **[llm-cost-check](https://github.com/Mansi2221/llm-cost-check)** | Estimates LLM API cost changes on PRs that modify prompts/models | `Mansi2221/llm-cost-check@v1` |
+| **[repo-health-score](https://github.com/Mansi2221/repo-health-score)** | Scores repo health across testing, docs, deps, security, CI/CD | `Mansi2221/repo-health-score@v1` |
 
 ---
 
